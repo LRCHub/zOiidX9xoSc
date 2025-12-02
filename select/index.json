@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ドラマツルギー",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-02T13:56:39.175211Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドラマツルギー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_ドラマツルギー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドラマツルギー (Live Film ver.)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_ドラマツルギー_(Live_Film_ver.)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドラマツルギー (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/03_ドラマツルギー_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドラマツルギー",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/04_ドラマツルギー_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドラマツルギー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_ドラマツルギー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドラマツルギー",
+      "artist": "Leo/need feat. 星乃一歌&初音ミク",
+      "has_synced": true,
+      "path": "select/06_ドラマツルギー_Leo_need_feat._星乃一歌&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドラマツルギー",
+      "artist": "Eve feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/07_ドラマツルギー_Eve_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドラマツルギー",
+      "artist": "Eve feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/08_ドラマツルギー_Eve_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドラマツルギー (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/09_ドラマツルギー_(feat._星乃一歌&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドラマツルギー - Dramaturgy (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/10_ドラマツルギー_-_Dramaturgy_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ドラマツルギー",
+      "artist": "星乃一歌 (野口瑠璃子) & 初音ミク",
+      "has_synced": false,
+      "path": "select/11_ドラマツルギー_星乃一歌_(野口瑠璃子)_&_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ドラマツルギー (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/12_ドラマツルギー_(feat._星乃一歌&初音ミク)_Leo_need.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドラマツルギー",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_ドラマツルギー_Eve.txt"
+    }
+  ]
+}
